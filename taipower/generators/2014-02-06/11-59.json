@@ -1,0 +1,336 @@
+[
+   {
+      "capacity" : "636.0",
+      "device" : "核一#1",
+      "generating" : "627.5",
+      "power_type" : "Nuclear",
+      "ratio" : "98.7%",
+      "updated_at" : "2014-02-06T19:40+08"
+   },
+   {
+      "capacity" : "636.0",
+      "device" : "核一#2",
+      "generating" : "635.8",
+      "power_type" : "Nuclear",
+      "ratio" : "100.0%",
+      "updated_at" : "2014-02-06T19:40+08"
+   },
+   {
+      "capacity" : "985.0",
+      "device" : "核二#1",
+      "generating" : "992.0",
+      "power_type" : "Nuclear",
+      "ratio" : "100.7%",
+      "updated_at" : "2014-02-06T19:40+08"
+   },
+   {
+      "capacity" : "985.0",
+      "device" : "核二#2",
+      "generating" : "994.7",
+      "power_type" : "Nuclear",
+      "ratio" : "101.0%",
+      "updated_at" : "2014-02-06T19:40+08"
+   },
+   {
+      "capacity" : "951.0",
+      "device" : "核三#1",
+      "generating" : "939.2",
+      "power_type" : "Nuclear",
+      "ratio" : "98.8%",
+      "updated_at" : "2014-02-06T19:40+08"
+   },
+   {
+      "capacity" : "951.0",
+      "device" : "核三#2",
+      "generating" : "937.0",
+      "power_type" : "Nuclear",
+      "ratio" : "98.5%",
+      "updated_at" : "2014-02-06T19:40+08"
+   },
+   {
+      "capacity" : "300.0",
+      "device" : "林口#1",
+      "generating" : "197.9",
+      "power_type" : "Coal",
+      "ratio" : "66.0%",
+      "updated_at" : "2014-02-06T19:40+08"
+   },
+   {
+      "capacity" : "300.0",
+      "device" : "林口#2",
+      "generating" : "247.8",
+      "power_type" : "Coal",
+      "ratio" : "82.6%",
+      "updated_at" : "2014-02-06T19:40+08"
+   },
+   {
+      "capacity" : "550.0",
+      "device" : "台中#1",
+      "generating" : "525.0",
+      "power_type" : "Coal",
+      "ratio" : "95.5%",
+      "updated_at" : "2014-02-06T19:40+08"
+   },
+   {
+      "capacity" : "550.0",
+      "device" : "台中#2",
+      "generating" : "0.0",
+      "power_type" : "Coal",
+      "ratio" : "0.0%",
+      "updated_at" : "2014-02-06T19:40+08"
+   },
+   {
+      "capacity" : "550.0",
+      "device" : "台中#3",
+      "generating" : "541.5",
+      "power_type" : "Coal",
+      "ratio" : "98.5%",
+      "updated_at" : "2014-02-06T19:40+08"
+   },
+   {
+      "capacity" : "550.0",
+      "device" : "台中#4",
+      "generating" : "542.3",
+      "power_type" : "Coal",
+      "ratio" : "98.6%",
+      "updated_at" : "2014-02-06T19:40+08"
+   },
+   {
+      "capacity" : "550.0",
+      "device" : "台中#5",
+      "generating" : "541.5",
+      "power_type" : "Coal",
+      "ratio" : "98.5%",
+      "updated_at" : "2014-02-06T19:40+08"
+   },
+   {
+      "capacity" : "550.0",
+      "device" : "台中#6",
+      "generating" : "526.2",
+      "power_type" : "Coal",
+      "ratio" : "95.7%",
+      "updated_at" : "2014-02-06T19:40+08"
+   },
+   {
+      "capacity" : "550.0",
+      "device" : "台中#7",
+      "generating" : "530.4",
+      "power_type" : "Coal",
+      "ratio" : "96.4%",
+      "updated_at" : "2014-02-06T19:40+08"
+   },
+   {
+      "capacity" : "550.0",
+      "device" : "台中#8",
+      "generating" : "532.7",
+      "power_type" : "Coal",
+      "ratio" : "96.9%",
+      "updated_at" : "2014-02-06T19:40+08"
+   },
+   {
+      "capacity" : "550.0",
+      "device" : "台中#9",
+      "generating" : "523.2",
+      "power_type" : "Coal",
+      "ratio" : "95.1%",
+      "updated_at" : "2014-02-06T19:40+08"
+   },
+   {
+      "capacity" : "550.0",
+      "device" : "台中#10",
+      "generating" : "529.6",
+      "power_type" : "Coal",
+      "ratio" : "96.3%",
+      "updated_at" : "2014-02-06T19:40+08"
+   },
+   {
+      "capacity" : "500.0",
+      "device" : "興達#1",
+      "generating" : "458.8",
+      "power_type" : "Coal",
+      "ratio" : "91.8%",
+      "updated_at" : "2014-02-06T19:40+08"
+   },
+   {
+      "capacity" : "500.0",
+      "device" : "興達#2",
+      "generating" : "477.8",
+      "power_type" : "Coal",
+      "ratio" : "95.6%",
+      "updated_at" : "2014-02-06T19:40+08"
+   },
+   {
+      "capacity" : "550.0",
+      "device" : "興達#3",
+      "generating" : "520.6",
+      "power_type" : "Coal",
+      "ratio" : "94.7%",
+      "updated_at" : "2014-02-06T19:40+08"
+   },
+   {
+      "capacity" : "550.0",
+      "device" : "興達#4",
+      "generating" : "522.5",
+      "power_type" : "Coal",
+      "ratio" : "95.0%",
+      "updated_at" : "2014-02-06T19:40+08"
+   },
+   {
+      "capacity" : "622.1",
+      "device" : "汽電共生",
+      "generating" : "1424.6",
+      "power_type" : "Co-Gen",
+      "ratio" : "-",
+      "updated_at" : "2014-02-06T19:40+08"
+   },
+   {
+      "capacity" : "648.6",
+      "device" : "和平#1",
+      "generating" : "616.2",
+      "power_type" : "IPP-Coal",
+      "ratio" : "95.0%",
+      "updated_at" : "2014-02-06T19:40+08"
+   },
+   {
+      "capacity" : "648.6",
+      "device" : "和平#2",
+      "generating" : "0.0",
+      "power_type" : "IPP-Coal",
+      "ratio" : "0.0%",
+      "updated_at" : "2014-02-06T19:40+08"
+   },
+   {
+      "capacity" : "600.0",
+      "device" : "麥寮#1",
+      "generating" : "568.0",
+      "power_type" : "IPP-Coal",
+      "ratio" : "94.7%",
+      "updated_at" : "2014-02-06T19:40+08"
+   },
+   {
+      "capacity" : "600.0",
+      "device" : "麥寮#2",
+      "generating" : "570.2",
+      "power_type" : "IPP-Coal",
+      "ratio" : "95.0%",
+      "updated_at" : "2014-02-06T19:40+08"
+   },
+   {
+      "capacity" : "600.0",
+      "device" : "麥寮#3",
+      "generating" : "578.9",
+      "power_type" : "IPP-Coal",
+      "ratio" : "96.5%",
+      "updated_at" : "2014-02-06T19:40+08"
+   },
+   {
+      "capacity" : "742.7",
+      "device" : "大潭CC#1",
+      "generating" : "615.3",
+      "power_type" : "LNG",
+      "ratio" : "82.8%",
+      "updated_at" : "2014-02-06T19:40+08"
+   },
+   {
+      "capacity" : "742.7",
+      "device" : "大潭CC#2",
+      "generating" : "645.2",
+      "power_type" : "LNG",
+      "ratio" : "86.9%",
+      "updated_at" : "2014-02-06T19:40+08"
+   },
+   {
+      "capacity" : "724.7",
+      "device" : "大潭CC#3",
+      "generating" : "651.3",
+      "power_type" : "LNG",
+      "ratio" : "89.9%",
+      "updated_at" : "2014-02-06T19:40+08"
+   },
+   {
+      "capacity" : "724.7",
+      "device" : "大潭CC#4",
+      "generating" : "0.0",
+      "power_type" : "LNG",
+      "ratio" : "0.0%",
+      "updated_at" : "2014-02-06T19:40+08"
+   },
+   {
+      "capacity" : "724.7",
+      "device" : "大潭CC#5",
+      "generating" : "0.0",
+      "power_type" : "LNG",
+      "ratio" : "0.0%",
+      "updated_at" : "2014-02-06T19:40+08"
+   },
+   {
+      "capacity" : "724.7",
+      "device" : "大潭CC#6",
+      "generating" : "680.6",
+      "power_type" : "LNG",
+      "ratio" : "93.9%",
+      "updated_at" : "2014-02-06T19:40+08"
+   },
+   {
+      "capacity" : "258.5",
+      "device" : "通霄CC#1",
+      "generating" : "81.7",
+      "power_type" : "LNG",
+      "ratio" : "31.6%",
+      "updated_at" : "2014-02-06T19:40+08"
+   },
+   {
+      "capacity" : "258.5",
+      "device" : "通霄CC#2",
+      "generating" : "81.4",
+      "power_type" : "LNG",
+      "ratio" : "31.5%",
+      "updated_at" : "2014-02-06T19:40+08"
+   },
+   {
+      "capacity" : "246.8",
+      "device" : "通霄CC#3",
+      "generating" : "0.0",
+      "power_type" : "LNG",
+      "ratio" : "0.0%",
+      "updated_at" : "2014-02-06T19:40+08"
+   },
+   {
+      "capacity" : "358.0",
+      "device" : "通霄CC#4",
+      "generating" : "400.9",
+      "power_type" : "LNG",
+      "ratio" : "112.0%",
+      "updated_at" : "2014-02-06T19:40+08"
+   },
+   {
+      "capacity" : "386.0",
+      "device" : "通霄CC#5",
+      "generating" : "389.6",
+      "power_type" : "LNG",
+      "ratio" : "100.9%",
+      "updated_at" : "2014-02-06T19:40+08"
+   },
+   {
+      "capacity" : "321.2",
+      "device" : "通霄CC#6",
+      "generating" : "322.5",
+      "power_type" : "LNG",
+      "ratio" : "100.4%",
+      "updated_at" : "2014-02-06T19:40+08"
+   },
+   {
+      "capacity" : "445.2",
+      "device" : "興達CC#1",
+      "generating" : "0.0",
+      "power_type" : "LNG",
+      "ratio" : "0.0%",
+      "updated_at" : "2014-02-06T19:40+08"
+   },
+   {
+      "capacity" : "445.2",
+      "device" : "興達CC#2",
+      "generating" : "0.0",
+      "power_type" : "LNG",
+      "ratio" : "0.0%",
+      "upd

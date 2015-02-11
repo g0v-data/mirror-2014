@@ -1,0 +1,177 @@
+[
+   {
+      "station" : "三芝",
+      "station_en" : "SHANGI",
+      "value" : "0.063",
+      "localtime" : "2014-11-1T10:15:00+08"
+   },
+   {
+      "value" : "0.061",
+      "localtime" : "2014-11-1T10:15:00+08",
+      "station" : "三港",
+      "station_en" : "SANGANG"
+   },
+   {
+      "station" : "大光",
+      "station_en" : "TAKUANG",
+      "value" : "0.051",
+      "localtime" : "2014-11-1T10:15:00+08"
+   },
+   {
+      "station" : "大坪",
+      "station_en" : "TAPING",
+      "value" : "0.064",
+      "localtime" : "2014-11-1T10:15:00+08"
+   },
+   {
+      "localtime" : "2014-11-1T10:15:00+08",
+      "value" : "0.067",
+      "station_en" : "TAPERNG",
+      "station" : "大鵬"
+   },
+   {
+      "station" : "台中",
+      "station_en" : "TAICHUNG",
+      "value" : "0.074",
+      "localtime" : "2014-11-1T10:15:00+08"
+   },
+   {
+      "station" : "台北",
+      "station_en" : "TAIPEI",
+      "value" : "0.059",
+      "localtime" : "2014-11-1T10:15:00+08"
+   },
+   {
+      "station_en" : "TAITUNG",
+      "station" : "台東",
+      "localtime" : "2014-11-1T10:15:00+08",
+      "value" : "0.057"
+   },
+   {
+      "station_en" : "TAINAN",
+      "station" : "台南",
+      "localtime" : "2014-11-1T10:15:00+08",
+      "value" : "0.064"
+   },
+   {
+      "value" : "0.056",
+      "localtime" : "2014-11-1T10:15:00+08",
+      "station" : "石門",
+      "station_en" : "SHIHMAN"
+   },
+   {
+      "station" : "石崩山",
+      "station_en" : "SHIHBENGSHAN",
+      "value" : "0.071",
+      "localtime" : "2014-11-1T10:15:00+08"
+   },
+   {
+      "value" : "0.046",
+      "localtime" : "2014-11-1T10:15:00+08",
+      "station" : "竹北",
+      "station_en" : "JHUBEI"
+   },
+   {
+      "station_en" : "ILAN",
+      "station" : "宜蘭",
+      "localtime" : "2014-11-1T10:15:00+08",
+      "value" : "0.065"
+   },
+   {
+      "station_en" : "BANCIAO",
+      "station" : "板橋",
+      "localtime" : "2014-11-1T10:15:00+08",
+      "value" : "0.075"
+   },
+   {
+      "station_en" : "HUALINE",
+      "station" : "花蓮",
+      "localtime" : "2014-11-1T10:15:00+08",
+      "value" : "0.056"
+   },
+   {
+      "station_en" : "CHINSHAN",
+      "station" : "金山",
+      "localtime" : "2014-11-1T10:15:00+08",
+      "value" : "0.050"
+   },
+   {
+      "station" : "金門",
+      "station_en" : "KINMEN",
+      "value" : "0.087",
+      "localtime" : "2014-11-1T10:15:00+08"
+   },
+   {
+      "station" : "阿里山",
+      "station_en" : "ALISHAN",
+      "value" : "0.107",
+      "localtime" : "2014-11-1T10:15:00+08"
+   },
+   {
+      "value" : "0.053",
+      "localtime" : "2014-11-1T10:15:00+08",
+      "station" : "南投",
+      "station_en" : "NANTOU"
+   },
+   {
+      "station_en" : "PINGTONG",
+      "station" : "屏東市",
+      "localtime" : "2014-11-1T10:15:00+08",
+      "value" : "0.047"
+   },
+   {
+      "station" : "後壁湖",
+      "station_en" : "HOUBIHU",
+      "value" : "0.060",
+      "localtime" : "2014-11-1T10:15:00+08"
+   },
+   {
+      "localtime" : "2014-11-1T10:15:00+08",
+      "value" : "0.070",
+      "station_en" : "HENGCHUN",
+      "station" : "恆春"
+   },
+   {
+      "station" : "茂林",
+      "station_en" : "MAOLIN",
+      "value" : "0.054",
+      "localtime" : "2014-11-1T10:15:00+08"
+   },
+   {
+      "localtime" : "2014-11-1T10:15:00+08",
+      "value" : "0.050",
+      "station_en" : "MIAOLI",
+      "station" : "苗栗"
+   },
+   {
+      "station_en" : "GONGLIAO",
+      "station" : "貢寮",
+      "localtime" : "2014-11-1T10:15:00+08",
+      "value" : "0.056"
+   },
+   {
+      "localtime" : "2014-11-1T10:15:00+08",
+      "value" : "0.058",
+      "station_en" : "MATZU",
+      "station" : "馬祖"
+   },
+   {
+      "localtime" : "2014-11-1T10:15:00+08",
+      "value" : "0.063",
+      "station_en" : "KAOHSIUNG",
+      "station" : "高雄"
+   },
+   {
+      "localtime" : "2014-11-1T10:15:00+08",
+      "value" : "0.056",
+      "station_en" : "KEELUNG",
+      "station" : "基隆"
+   },
+   {
+      "station_en" : "YEHLIU",
+      "station" : "野柳",
+      "localtime" : "2014-11-1T10:15:00+08",
+      "value" : "0.061"
+   },
+   {
+      "station" : "�

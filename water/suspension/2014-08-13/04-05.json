@@ -1,0 +1,42 @@
+[
+   {
+      "area" : "",
+      "interval_from" : "+08",
+      "interval_until" : "+08",
+      "publish_area" : null,
+      "publish_duration" : null,
+      "publish_from" : null,
+      "publish_until" : null,
+      "telephone" : null
+   },
+   {
+      "area" : "<html>",
+      "interval_from" : "+08",
+      "interval_until" : "+08",
+      "publish_area" : null,
+      "publish_duration" : null,
+      "publish_from" : null,
+      "publish_until" : null,
+      "telephone" : null
+   },
+   {
+      "area" : "",
+      "interval_from" : "+08",
+      "interval_until" : "+08",
+      "publish_area" : null,
+      "publish_duration" : null,
+      "publish_from" : null,
+      "publish_until" : null,
+      "telephone" : null
+   },
+   {
+      "area" : "<head>",
+      "interval_from" : "+08",
+      "interval_until" : "+08",
+      "publish_area" : null,
+      "publish_duration" : null,
+      "publish_from" : null,
+      "publish_until" : null,
+      "telephone" : null
+   }
+]
